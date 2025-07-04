@@ -15,7 +15,7 @@ public class Assignment1 {
 		
 		//3. Person's phone number: "123-456-7890"
 		
-		String phoneNumber="9066981102";
+		String phoneNumber="123-456-7890";
 		
 		//4. Amount of money in a customer's bank account: 1000.50
 		
@@ -44,7 +44,7 @@ public class Assignment1 {
 		
 		//10.Current year: 2023
 		
-		int year=2023;
+		short year=2023;
 		
 		//11.Number of followers on a social media platform: 1,000,000
 		
@@ -64,7 +64,7 @@ public class Assignment1 {
 		
 		//15.Number of employees in a company: 500
 		
-		int employees =500;
+		short employees =500;
 		
 		//16.Time of an event: 2:30 PM
 		

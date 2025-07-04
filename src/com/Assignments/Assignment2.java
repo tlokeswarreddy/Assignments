@@ -1,6 +1,6 @@
 package com.Assignments;
 
-public class Assignments2 {
+public class Assignment2 {
 
 	public static void main(String[] args) {
 
