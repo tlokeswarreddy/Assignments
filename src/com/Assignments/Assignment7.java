@@ -3,6 +3,9 @@ package com.Assignments;
 public class Assignment7 {
 
 	public static void main(String[] args) {
+		
+		
+		// Print if user is eligible for loan or not 
 
 		String customerName = "John Doe";
 		int creditScore = 720;
