@@ -30,6 +30,8 @@ public class Assignment1 {
 		double lat=37.7749;
 		double lon=122.4194;
 		
+		System.out.println("lat long values are  - " + lat +" & "+ lon);
+		
 		//7. Person's marital status: true or false
 		
 		boolean marriageStatus=true;
@@ -89,6 +91,8 @@ public class Assignment1 {
 				+d +"\n"+b
 				
 				);
+		
+		
 		
 		
 		
