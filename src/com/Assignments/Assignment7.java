@@ -22,7 +22,7 @@ public class Assignment7 {
 
 		else if (creditScore >= 650 && creditScore <= 750) {
 
-			if (income >= 50000) {
+			if (income >= 50000 && isEmployed ) {
 
 				if (isEmployed) {
 

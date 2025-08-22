@@ -16,12 +16,22 @@ public class Assignment9 {
 		Double[] empd5 = { 60000.0, 2.0, 3.5 };
 
 		Map<String, Double[]> empData = new HashMap<String, Double[]>();
+		
+		
 
 		empData.put(empName[0], empd1);
 		empData.put(empName[1], empd2);
 		empData.put(empName[2], empd3);
 		empData.put(empName[3], empd4);
 		empData.put(empName[4], empd5);
+		
+//Double[] value=empData.get(empName[0]);
+//		
+//		for(Double d:value) {
+//			
+//			System.out.println(d);
+//			
+//		}
 		
 		Map<String,Double> hikemap=new HashMap<String, Double>();
 
